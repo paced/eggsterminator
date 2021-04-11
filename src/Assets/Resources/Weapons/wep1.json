@@ -1,0 +1,10 @@
+{
+	"WeaponID": 2,
+	"WeaponName": "Egg Carton Shotgun",
+	"Level1": "Increase ammo per shot",
+	"Level1Cost": 150,
+	"Level2": "Increase reload time",
+	"Level2Cost": 200,
+	"Level3": "Make gun automatic",
+	"Level3Cost": 250
+}

@@ -1,0 +1,10 @@
+{
+	"WeaponID": 1,
+	"WeaponName": "Egg Gun",
+	"Level1": "Make gun automatic",
+	"Level1Cost": 100,
+	"Level2": "Increase firing rate",
+	"Level2Cost": 150,
+	"Level3": "Reduce reload time",
+	"Level3Cost": 200
+}

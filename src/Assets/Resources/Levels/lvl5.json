@@ -1,0 +1,6 @@
+{
+	"LevelNumber": 5,
+	"LevelLength": 60,
+	"NormalEnemyCount": 20,
+	"Wave": "10:20, 20:20, 29:20"
+}
